@@ -12,3 +12,4 @@ Para instalar las dependencias del proyecto, ejecuta el siguiente comando en la 
 
 ```bash
 npm install
+npm run dev
